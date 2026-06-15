@@ -1,0 +1,4 @@
+/spenza-api/dist
+/spenza-api/node_modules
+/spenza-api/.env
+/spenza-api/package-lock.json
